@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\300088566\\source\\repos\\JDS.RectangleArea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C31CC9F3-450C-4A20-BA9D-7630EDEEA04E}|JDS.RectangleArea\\JDS.RectangleArea.vcxproj|C:\\Users\\300088566\\source\\repos\\JDS.RectangleArea\\JDS.RectangleArea\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C31CC9F3-450C-4A20-BA9D-7630EDEEA04E}|JDS.RectangleArea\\JDS.RectangleArea.vcxproj|solutionrelative:JDS.RectangleArea\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\300088566\\source\\repos\\JDS.RectangleArea\\JDS.RectangleArea\\Main.cpp",
+              "RelativeDocumentMoniker": "JDS.RectangleArea\\Main.cpp",
+              "ToolTip": "C:\\Users\\300088566\\source\\repos\\JDS.RectangleArea\\JDS.RectangleArea\\Main.cpp",
+              "RelativeToolTip": "JDS.RectangleArea\\Main.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-24T18:18:31.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
